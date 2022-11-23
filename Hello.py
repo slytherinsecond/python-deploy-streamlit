@@ -6,7 +6,12 @@ st.set_page_config(
 )
 
 st.write("# Welcome to Streamlit! 👋")
-
+st.write("Listen : Open Project App To View Full Project Important")
+st.write("Project Code by 3 member")
+st.write("Pham The Anh")
+st.write("Ho Truong Cong Thang")
+st.write("Le Thuy Duong")
+st.write("Tks Mr.Duc Support")
 st.sidebar.success("Select a demo above.")
 
 st.markdown(
