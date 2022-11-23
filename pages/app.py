@@ -86,8 +86,8 @@ def main():
         "Real time audio filter (sendrecv)": app_audio_filter,
         "Delayed echo (sendrecv)": app_delayed_echo,
         "Consuming media files on server-side and streaming it to browser (recvonly)": app_streaming,  # noqa: E501
-        "WebRTC is sendonly and images are shown via st.image() (sendonly)": app_sendonly_video,  # noqa: E501
-        "WebRTC is sendonly and audio frames are visualized with matplotlib (sendonly)": app_sendonly_audio,  # noqa: E501
+        "Streamlit is sendonly and images are shown via st.image() (sendonly)": app_sendonly_video,  # noqa: E501
+        "Streamlit is sendonly and audio frames are visualized with matplotlib (sendonly)": app_sendonly_audio,  # noqa: E501
         "Simple video and audio loopback (sendrecv)": app_loopback,
         "Configure media constraints and HTML element styles with loopback (sendrecv)": app_media_constraints,  # noqa: E501
         "Control the playing state programatically": app_programatically_play,
