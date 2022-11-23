@@ -11,7 +11,7 @@ st.write("Project Code by 3 member")
 st.write("Pham The Anh")
 st.write("Ho Truong Cong Thang")
 st.write("Le Thuy Duong")
-st.write("Tks Mr.Duc Support")
+st.write("Tks Mr.Duc Training & Support")
 st.sidebar.success("Select a demo above.")
 
 st.markdown(
