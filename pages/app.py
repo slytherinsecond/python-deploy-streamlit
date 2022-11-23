@@ -78,7 +78,7 @@ RTC_CONFIGURATION = RTCConfiguration(
 
 
 def main():
-    st.header("WebRTC demo")
+    st.header("Project Scan-face The Anh demo")
 
     pages = {
         "Real time object detection (sendrecv)": app_object_detection,
@@ -107,7 +107,7 @@ def main():
     st.sidebar.markdown(
         """
 ---
-<a href="https://www.buymeacoffee.com/whitphx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180" height="50" ></a>
+
     """,  # noqa: E501
         unsafe_allow_html=True,
     )
