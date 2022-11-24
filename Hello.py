@@ -6,7 +6,9 @@ st.set_page_config(
 )
 
 st.write("# Welcome to Streamlit! 👋")
-st.write("Listen : Open Project App To View Full Project Important")
+st.write("Listen : Open Project App To View Full Project Important (LINK : https://slytherinsecond-python-deploy-streamlit-pagesapp-8sbcym.streamlit.app/)")
+st.write("Project Run by API Streamlits . Please Start project with wifi good or strong")
+st.write("if cannot run project when start . Please run again")
 st.write("Project Code by 3 member")
 st.write("Pham The Anh")
 st.write("Ho Truong Cong Thang")
